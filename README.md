@@ -1,1 +1,1 @@
-# landing-page
+This is for the OdinProject's CSS Project: Landing Page.
